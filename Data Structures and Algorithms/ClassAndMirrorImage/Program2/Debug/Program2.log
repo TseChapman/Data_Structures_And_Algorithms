@@ -1,0 +1,12 @@
+﻿  ImageClass.cpp
+c:\users\tch22\onedrive\桌面\css 342c\program2\program2\imageclass.cpp(189): warning C4715: 'Image::operator!=': not all control paths return a value
+c:\users\tch22\onedrive\桌面\css 342c\program2\program2\imageclass.cpp(198): warning C4172: returning address of local variable or temporary
+c:\users\tch22\onedrive\桌面\css 342c\program2\program2\imageclass.cpp(153): warning C4715: 'Image::operator==': not all control paths return a value
+c:\users\tch22\onedrive\桌面\css 342c\program2\program2\imageclass.cpp(208): warning C4172: returning address of local variable or temporary
+c:\users\tch22\onedrive\桌面\css 342c\program2\program2\imageclass.cpp(166): warning C4172: returning address of local variable or temporary
+c:\users\tch22\onedrive\桌面\css 342c\program2\program2\imageclass.cpp(181): warning C4172: returning address of local variable or temporary
+c:\users\tch22\onedrive\桌面\css 342c\program2\program2\imageclass.cpp(130): warning C4172: returning address of local variable or temporary
+c:\users\tch22\onedrive\桌面\css 342c\program2\program2\imageclass.cpp(187): warning C4172: returning address of local variable or temporary
+c:\users\tch22\onedrive\桌面\css 342c\program2\program2\imageclass.cpp(145): warning C4172: returning address of local variable or temporary
+c:\users\tch22\onedrive\桌面\css 342c\program2\program2\imageclass.cpp(151): warning C4172: returning address of local variable or temporary
+  Program2.vcxproj -> C:\Users\tch22\OneDrive\桌面\CSS 342C\Program2\Debug\Program2.exe
